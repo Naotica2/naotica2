@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://naoticasite.online](https://naoticasite.online)
+- 👨‍💻 My portofolio website [https://naoticasite.online](https://naoticasite.online)
 
 - 💬 Ask me about **React, Frontend**
 
